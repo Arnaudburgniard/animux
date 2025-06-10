@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<title>Animux</title>
+	<!-- -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width;initial-scale=1;viewport-fit=cover">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<!-- -->
+	<link rel="stylesheet" href="./reset.css">
+	<link rel="stylesheet" href="./styles.css">
+	<!-- PWA config -->
+	<link rel="icon" type="image/png" href="./favicon/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="./favicon/favicon.svg" />
+	<link rel="shortcut icon" href="./favicon/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png" />
+	<link rel="manifest" type="application/manifest+json" href="./manifest.json">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Animux">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+</head>
+
+<body>
+	<div id="loading"></div>
+	
+	<script>
+		let loadingImages = ["buffle", "cerf", "elephant", "girafe", "grizzly", "lapin", "panda", "pantere", "tigre", "zebre", "buffle", "cerf", "elephant", "girafe", "grizzly", "lapin", "panda", "pantere", "tigre", "zebre"];
+		const loading = document.getElementById("loading");
+		const slider = document.createElement("div");
+		const slideTrack = document.createElement("div");
+		slider.setAttribute('id', 'slider');
+		slideTrack.setAttribute('id', 'slide-track');
+		const title = document.createElement("span");
+		title.textContent = "Animux";
+		loading.append(slider, title);
+		slider.append(slideTrack);
+		shuffleArray(loadingImages);
+		const slidesFragment = document.createDocumentFragment();
+		loadingImages.forEach(image => {
+			const slide = document.createElement("div");
+			const loadingImage = document.createElement("img");
+			loadingImage.src = `./media/icon/${image}.svg`; // Template literal
+			loadingImage.classList.add("slide");
+			slide.appendChild(loadingImage);
+			slidesFragment.appendChild(slide);
+		});
+
+		slideTrack.appendChild(slidesFragment);
+
+		/////////////////////// Shuffle Loading Image array
+		function shuffleArray(array) {
+			for (let i = array.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				[array[i], array[j]] = [array[j], array[i]];
+			}
+		}
+
+	</script>
+	<script defer type="text/javascript" src="./scripts.js"></script>
+</body>
+
+</html>

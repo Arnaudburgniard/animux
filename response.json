@@ -1,0 +1,2646 @@
+[
+	{
+		"Name": "Aardvark",
+		"Name_en": "Aardvark",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau lisse",
+		"Move": ["Marche"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": ["aardvark-1.webp"]
+    },
+	{
+		"Name": "Abeille",
+		"Name_en": "Bee",
+		"Categorie": "Insecte",
+		"Apparence": "Aile",
+		"Move": ["Vole"],
+		"Diet": "Nectarivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Bourdonne",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bee-1.webp",
+            "bee-2.webp",
+            "bee-3.webp",
+            "bee-4.webp",
+            "bee-5.webp"
+        ]
+    },
+	{
+		"Name": "Aigle",
+		"Name_en": "Eagle",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "aigle.mp3",
+		"ImgUrls": [
+            "eagle-1.webp",
+            "eagle-2.webp",
+            "eagle-3.webp",
+            "eagle-4.webp",
+            "eagle-5.webp"
+        ]
+    },
+	{
+		"Name": "Alligator",
+		"Name_en": "Alligator",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Pleure",
+		"SoundUrl": "alligator.mp3",
+		"ImgUrls": [
+            "alligator-1.webp",
+            "alligator-2.webp",
+            "alligator-3.webp",
+            "alligator-4.webp",
+            "alligator-5.webp"
+        ]
+    },
+	{
+		"Name": "Âne",
+		"Name_en": "Donkey",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hennissement",
+		"SoundUrl": "ane.mp3",
+		"ImgUrls": [
+            "donkey-1.webp",
+            "donkey-2.webp",
+            "donkey-3.webp",
+            "donkey-4.webp",
+            "donkey-5.webp"
+        ]
+    },
+	{
+		"Name": "Anaconda",
+		"Name_en": "Anaconda",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Rampe"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "anaconda-1.webp",
+            "anaconda-2.webp",
+            "anaconda-3.webp",
+            "anaconda-4.webp",
+            "anaconda-5.webp"
+        ]
+    },
+	{
+		"Name": "Antilope",
+		"Name_en": "Antelope",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "antilope.mp3",
+		"ImgUrls": [
+            "antelope-1.webp",
+            "antelope-2.webp",
+            "antelope-3.webp",
+            "antelope-4.webp",
+            "antelope-5.webp"
+        ]
+    },
+	{
+		"Name": "Araignée",
+		"Name_en": "Spider",
+		"Categorie": "Insecte",
+		"Apparence": "Toiles",
+		"Move": ["Rampe"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "spider-1.webp",
+            "spider-2.webp",
+            "spider-3.webp",
+            "spider-4.webp",
+            "spider-5.webp"
+        ]
+    },
+	{
+		"Name": "Araignée de mer",
+		"Name_en": "Spider crab",
+		"Categorie": "Arachnide",
+		"Apparence": "Exosquelette",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "spider-crab-1.webp",
+            "spider-crab-2.webp",
+            "spider-crab-3.webp",
+            "spider-crab-4.webp"
+        ]
+    },
+	{
+		"Name": "Autruche",
+		"Name_en": "Ostrich",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Rugit",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "ostrich-1.webp",
+            "ostrich-2.webp",
+            "ostrich-3.webp",
+            "ostrich-4.webp",
+            "ostrich-5.webp"
+        ]
+    },
+	{
+		"Name": "Baleine",
+		"Name_en": "Whale",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "balaine.mp3",
+		"ImgUrls": [
+            "whale-1.webp",
+            "whale-2.webp",
+            "whale-3.webp",
+            "whale-4.webp",
+            "whale-5.webp"
+        ]
+    },
+	{
+		"Name": "Barge rousse",
+		"Name_en": "Curlew",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "curlew-1.webp",
+            "curlew-2.webp",
+            "curlew-3.webp",
+            "curlew-4.webp",
+            "curlew-5.webp"
+        ]
+    },
+	{
+		"Name": "Batracien",
+		"Name_en": "Frog",
+		"Categorie": "Amphibien",
+		"Apparence": "Peau lisse",
+		"Move": ["Saute"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Coasse",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "frog-1.webp",
+            "frog-2.webp",
+            "frog-3.webp",
+            "frog-4.webp",
+            "frog-5.webp"
+        ]
+    },
+	{
+		"Name": "Bison",
+		"Name_en": "Bison",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grognement",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bison-1.webp",
+            "bison-2.webp",
+            "bison-3.webp",
+            "bison-4.webp",
+            "bison-5.webp"
+        ]
+    },
+	{
+		"Name": "Bongo",
+		"Name_en": "Bongo",
+		"Categorie": "Mammifère",
+		"Apparence": "Rayures blanches",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bongo-1.webp",
+            "bongo-2.webp",
+            "bongo-3.webp",
+            "bongo-4.webp",
+            "bongo-5.webp"
+        ]
+    },
+	{
+		"Name": "Bourdon",
+		"Name_en": "Bumblebee",
+		"Categorie": "Insecte",
+		"Apparence": "Poils",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Bourdonnement",
+		"SoundUrl": "bourdon.mp3",
+		"ImgUrls": [
+            "bumblebee-1.webp",
+            "bumblebee-2.webp",
+            "bumblebee-3.webp",
+            "bumblebee-4.webp",
+            "bumblebee-5.webp"
+        ]
+    },
+	{
+		"Name": "Phasme",
+		"Name_en": "Stick Insect",
+		"Categorie": "Insecte",
+		"Apparence": "Camouflage",
+		"Move": ["Rampe"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "stick-insect-1.webp",
+            "stick-insect-2.webp",
+            "stick-insect-3.webp",
+            "stick-insect-4.webp",
+            "stick-insect-5.webp"
+        ]
+    },
+	{
+		"Name": "Bécasse",
+		"Name_en": "Snipe",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "snipe-1.webp",
+            "snipe-2.webp",
+            "snipe-3.webp",
+            "snipe-4.webp",
+            "snipe-5.webp"
+        ]
+    },
+	{
+		"Name": "Cacatoès",
+		"Name_en": "Cockatoo",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "cockatoo-1.webp",
+            "cockatoo-2.webp",
+            "cockatoo-3.webp",
+            "cockatoo-4.webp",
+            "cockatoo-5.webp"
+        ]
+    },
+	{
+		"Name": "Canard",
+		"Name_en": "Duck",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole", "Nage"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cancane",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "duck-1.webp",
+            "duck-2.webp",
+            "duck-3.webp",
+            "duck-4.webp",
+            "duck-5.webp"
+        ]
+    },
+	{
+		"Name": "Cangourou",
+		"Name_en": "Kangaroo",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grognement",
+		"SoundUrl": "cangourou.mp3",
+		"ImgUrls": [
+            "kangaroo-1.webp",
+            "kangaroo-2.webp",
+            "kangaroo-3.webp",
+            "kangaroo-4.webp",
+            "kangaroo-5.webp"
+        ]
+    },
+	{
+		"Name": "Caribou",
+		"Name_en": "Caribou",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "caribou-1.webp",
+            "caribou-2.webp",
+            "caribou-3.webp",
+            "caribou-4.webp",
+            "caribou-5.webp"
+        ]
+    },
+	{
+		"Name": "Cerf",
+		"Name_en": "Deer",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Brame",
+		"SoundUrl": "cerf.mp3",
+		"ImgUrls": [
+            "deer-1.webp",
+            "deer-2.webp",
+            "deer-3.webp",
+            "deer-4.webp",
+            "deer-5.webp"
+        ]
+    },
+	{
+		"Name": "Chameau",
+		"Name_en": "Camel",
+		"Categorie": "Mammifère",
+		"Apparence": "Bosse sur le dos, poils épais",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Blatère",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "camel-1.webp",
+            "camel-2.webp",
+            "camel-3.webp",
+            "camel-4.webp",
+            "camel-5.webp"
+        ]
+    },
+	{
+		"Name": "Chat",
+		"Name_en": "Cat",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Miaule",
+		"SoundUrl": "chat.mp3",
+		"ImgUrls": [
+            "cat-1.webp",
+            "cat-2.webp",
+            "cat-3.webp",
+            "cat-4.webp",
+            "cat-5.webp"
+        ]
+    },
+	{
+		"Name": "Chauve-souris",
+		"Name_en": "Bat",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grince",
+		"SoundUrl": "chauve_souris.mp3",
+		"ImgUrls": [
+            "bat-1.webp",
+            "bat-2.webp",
+            "bat-3.webp",
+            "bat-4.webp",
+            "bat-5.webp"
+        ]
+    },
+	{
+		"Name": "Cheval",
+		"Name_en": "Horse",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hennit",
+		"SoundUrl": "cheval.mp3",
+		"ImgUrls": [
+            "horse-1.webp",
+            "horse-2.webp",
+            "horse-3.webp",
+            "horse-4.webp",
+            "horse-5.webp"
+        ]
+    },
+	{
+		"Name": "Chien",
+		"Name_en": "Dog",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Aboie",
+		"SoundUrl": "chien.mp3",
+		"ImgUrls": [
+            "dog-1.webp",
+            "dog-2.webp",
+            "dog-3.webp",
+            "dog-4.webp",
+            "dog-5.webp"
+        ]
+    },
+	{
+		"Name": "Chimpanzé",
+		"Name_en": "Chimpanzee",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "chimpanze.mp3",
+		"ImgUrls": [
+            "chimpanzee-1.webp",
+            "chimpanzee-2.webp",
+            "chimpanzee-3.webp",
+            "chimpanzee-4.webp",
+            "chimpanzee-5.webp"
+        ]
+    },
+	{
+		"Name": "Chimpanzé bonobo",
+		"Name_en": "Bonobo",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bonobo-1.webp",
+            "bonobo-2.webp",
+            "bonobo-3.webp",
+            "bonobo-4.webp",
+            "bonobo-5.webp"
+        ]
+    },
+	{
+		"Name": "Chinchilla",
+		"Name_en": "Chinchilla",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "chinchilla-1.webp",
+            "chinchilla-2.webp",
+            "chinchilla-3.webp"
+        ]
+    },
+	{
+		"Name": "Chouette",
+		"Name_en": "Owl",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hulule",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "owl-1.webp",
+            "owl-2.webp",
+            "owl-3.webp",
+            "owl-4.webp",
+            "owl-5.webp"
+        ]
+    },
+	{
+		"Name": "Chèvre",
+		"Name_en": "Goat",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Bêle",
+		"SoundUrl": "chevre.mp3",
+		"ImgUrls": [
+            "goat-1.webp",
+            "goat-2.webp",
+            "goat-3.webp",
+            "goat-4.webp",
+            "goat-5.webp"
+        ]
+    },
+	{
+		"Name": "Cigales",
+		"Name_en": "Cicada",
+		"Categorie": "Insecte",
+		"Apparence": "Ailes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "cigales.mp3",
+		"ImgUrls": [
+            "cicada-1.webp",
+            "cicada-2.webp",
+            "cicada-3.webp",
+            "cicada-4.webp",
+            "cicada-5.webp"
+        ]
+    },
+	{
+		"Name": "Cigogne",
+		"Name_en": "Stork",
+		"Categorie": "",
+		"Apparence": "",
+		"Move": [""],
+		"Diet": "",
+		"Vertebrate": "",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "stork-1.webp",
+            "stork-2.webp",
+            "stork-3.webp",
+            "stork-4.webp",
+            "stork-5.webp"
+        ]
+		},
+	{
+		"Name": "Coati",
+		"Name_en": "Coati",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "coati-1.webp",
+            "coati-2.webp",
+            "coati-3.webp",
+            "coati-4.webp",
+            "coati-5.webp"
+        ]
+		},
+	{
+		"Name": "Cobra",
+		"Name_en": "Cobra",
+		"Categorie": "",
+		"Apparence": "",
+		"Move": [""],
+		"Diet": "",
+		"Vertebrate": "",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "cobra-1.webp",
+            "cobra-2.webp",
+            "cobra-3.webp",
+            "cobra-4.webp",
+            "cobra-5.webp",
+			"cobra-6.webp"
+        ]
+		},
+	{
+		"Name": "Cochon",
+		"Name_en": "Pig",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grouine",
+		"SoundUrl": "cochon.mp3",
+		"ImgUrls": [
+            "pig-1.webp",
+            "pig-2.webp",
+            "pig-3.webp",
+            "pig-4.webp",
+            "pig-5.webp"
+        ]
+		},
+	{
+		"Name": "Colibri",
+		"Name_en": "Hummingbird",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Nectarivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Zinzinule",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "hummingbird-1.webp",
+            "hummingbird-2.webp",
+            "hummingbird-3.webp",
+            "hummingbird-4.webp",
+            "hummingbird-5.webp"
+        ]
+		},
+	{
+		"Name": "Coq",
+		"Name_en": "Rooster",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "coq.mp3",
+		"ImgUrls": [
+            "rooster-1.webp",
+            "rooster-2.webp",
+            "rooster-3.webp",
+            "rooster-4.webp",
+            "rooster-5.webp"
+        ]
+		},
+	{
+		"Name": "Corbeau",
+		"Name_en": "Raven",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Croasse",
+		"SoundUrl": "corbeau.mp3",
+		"ImgUrls": [
+            "raven-1.webp",
+            "raven-2.webp",
+            "raven-3.webp",
+            "raven-4.webp",
+            "raven-5.webp"
+        ]
+		},
+	{
+		"Name": "Coyote",
+		"Name_en": "Coyote",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hurle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "coyote-1.webp",
+            "coyote-2.webp",
+            "coyote-3.webp",
+            "coyote-4.webp",
+            "coyote-5.webp"
+        ]
+		},
+	{
+		"Name": "Crocodile",
+		"Name_en": "Crocodile",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Pleure",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "crocodile-1.webp",
+            "crocodile-2.webp",
+            "crocodile-3.webp",
+            "crocodile-4.webp",
+            "crocodile-5.webp"
+        ]
+		},
+	{
+		"Name": "Cygne",
+		"Name_en": "Swan",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes blanches, long cou",
+		"Move": ["Nage", "Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Drense",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "swan-1.webp",
+            "swan-2.webp",
+            "swan-3.webp",
+            "swan-4.webp",
+            "swan-5.webp"
+        ]
+		},
+	{
+		"Name": "Daim",
+		"Name_en": "Fallow Deer",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils tachetés, bois chez les mâles",
+		"Move": ["Court"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Brame",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "fallow-deer-1.webp",
+            "fallow-deer-2.webp",
+            "fallow-deer-3.webp",
+            "fallow-deer-4.webp",
+            "fallow-deer-5.webp"
+        ]
+		},
+	{
+		"Name": "Dauphin",
+		"Name_en": "Dolphin",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau lisse",
+		"Move": ["Nage"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Siffle",
+		"SoundUrl": "dauphin.mp3",
+		"ImgUrls": [
+            "dolphin-1.webp",
+            "dolphin-2.webp",
+            "dolphin-3.webp",
+            "dolphin-4.webp",
+            "dolphin-5.webp"
+        ]
+		},
+	{
+		"Name": "Dauphin rose",
+		"Name_en": "Pink Dolphin",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau rose",
+		"Move": ["Nage"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Siffle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "pink-dolphin-1.webp",
+            "pink-dolphin-2.webp",
+            "pink-dolphin-3.webp",
+            "pink-dolphin-4.webp",
+            "pink-dolphin-5.webp"
+        ]
+		},
+	{
+		"Name": "Dinde",
+		"Name_en": "Turkey",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Marche", "Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Glougloute",
+		"SoundUrl": "dinde.mp3",
+		"ImgUrls": [
+            "turkey-1.webp",
+            "turkey-2.webp",
+            "turkey-3.webp",
+            "turkey-4.webp",
+            "turkey-5.webp"
+        ]
+		},
+	{
+		"Name": "Écureuil",
+		"Name_en": "Squirrel",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grignote",
+		"SoundUrl": "ecureuil.mp3",
+		"ImgUrls": [
+            "squirrel-1.webp",
+            "squirrel-2.webp",
+            "squirrel-3.webp",
+            "squirrel-4.webp",
+            "squirrel-5.webp"
+        ]
+		},
+	{
+		"Name": "Élan",
+		"Name_en": "Moose",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Meuglement",
+		"SoundUrl": "elan.mp3",
+		"ImgUrls": [
+            "moose-1.webp",
+            "moose-2.webp",
+            "moose-3.webp",
+            "moose-4.webp",
+            "moose-5.webp"
+        ]
+		},
+	{
+		"Name": "Éléphant",
+		"Name_en": "Elephant",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau épaisse",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Barrit",
+		"SoundUrl": "elephant.mp3",
+		"ImgUrls": [
+            "elephant-1.webp",
+            "elephant-2.webp",
+            "elephant-3.webp",
+            "elephant-4.webp",
+            "elephant-5.webp"
+        ]
+		},
+	{
+		"Name": "Émeu",
+		"Name_en": "Emu",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "emu-1.webp",
+            "emu-2.webp",
+            "emu-3.webp",
+            "emu-4.webp",
+            "emu-5.webp"
+        ]
+		},
+	{
+		"Name": "Epervier",
+		"Name_en": "Sparrowhawk",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes brunes, yeux perçants",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Glapit",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "sparrowhawk-1.webp",
+            "sparrowhawk-2.webp",
+            "sparrowhawk-3.webp",
+            "sparrowhawk-4.webp",
+            "sparrowhawk-5.webp"
+        ]
+		},
+	{
+		"Name": "Faisan",
+		"Name_en": "Pheasant",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes colorées",
+		"Move": ["Marche", "Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Glapit",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "pheasant-1.webp",
+            "pheasant-2.webp",
+            "pheasant-3.webp",
+            "pheasant-4.webp",
+            "pheasant-5.webp",
+			"pheasant-6.webp"
+        ]
+		},
+	{
+		"Name": "Fennec",
+		"Name_en": "Fennec Fox",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "fennec-fox-1.webp",
+            "fennec-fox-2.webp",
+            "fennec-fox-3.webp",
+            "fennec-fox-4.webp",
+            "fennec-fox-5.webp"
+        ]
+		},
+	{
+		"Name": "Fourmi",
+		"Name_en": "Ant",
+		"Categorie": "Insecte",
+		"Apparence": "Antennes",
+		"Move": ["Rampe"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "ant-1.webp",
+            "ant-2.webp",
+            "ant-3.webp",
+            "ant-4.webp",
+            "ant-5.webp"
+        ]
+		},
+	{
+		"Name": "Gazelle",
+		"Name_en": "Gazelle",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "gazelle-1.webp",
+            "gazelle-2.webp",
+            "gazelle-3.webp",
+            "gazelle-4.webp",
+            "gazelle-5.webp"
+        ]
+		},
+	{
+		"Name": "Gecko",
+		"Name_en": "Gecko",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Rampe"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "gecko-1.webp",
+            "gecko-2.webp",
+            "gecko-3.webp",
+            "gecko-4.webp",
+            "gecko-5.webp"
+        ]
+		},
+	{
+		"Name": "Gibbon",
+		"Name_en": "Gibbon",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "gibbon-1.webp",
+            "gibbon-2.webp",
+            "gibbon-3.webp",
+            "gibbon-4.webp",
+            "gibbon-5.webp"
+        ]
+		},
+	{
+		"Name": "Girafe",
+		"Name_en": "Giraffe",
+		"Categorie": "Mammifère",
+		"Apparence": "Long cou, taches sur la peau",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Bêle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "giraffe-1.webp",
+            "giraffe-2.webp",
+            "giraffe-3.webp",
+            "giraffe-4.webp",
+            "giraffe-5.webp"
+        ]
+		},
+	{
+		"Name": "Gorille",
+		"Name_en": "Gorilla",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Rugissement",
+		"SoundUrl": "gorille.mp3",
+		"ImgUrls": [
+            "gorilla-1.webp",
+            "gorilla-2.webp",
+            "gorilla-3.webp",
+            "gorilla-4.webp",
+            "gorilla-5.webp"
+        ]
+		},
+	{
+		"Name": "Goéland",
+		"Name_en": "Seagull",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes blanches et grises, bec jaune",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Pleure",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "seagull-1.webp",
+            "seagull-2.webp",
+            "seagull-3.webp",
+            "seagull-4.webp",
+            "seagull-5.webp"
+        ]
+		},
+	{
+		"Name": "Grenouille",
+		"Name_en": "Frog",
+		"Categorie": "Amphibien",
+		"Apparence": "Peau lisse",
+		"Move": ["Saute"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Coasse",
+		"SoundUrl": "grenouille.mp3",
+		"ImgUrls": [
+            "frog-1.webp",
+            "frog-2.webp",
+            "frog-3.webp",
+            "frog-4.webp",
+            "frog-5.webp"
+        ]
+		},
+	{
+		"Name": "Grillon",
+		"Name_en": "Locust",
+		"Categorie": "Insecte",
+		"Apparence": "Petits insectes, corps long et ailes",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Craquète",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "locust-1.webp",
+            "locust-2.webp",
+            "locust-3.webp",
+            "locust-4.webp",
+            "locust-5.webp",
+			"locust-6.webp",
+            "locust-7.webp",
+            "locust-8.webp",
+            "locust-9.webp"
+        ]
+		},
+	{
+		"Name": "Guêpe",
+		"Name_en": "Wasp",
+		"Categorie": "Insecte",
+		"Apparence": "Corps noir et jaune, ailes transparentes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore/Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Bourdonne",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "wasp-1.webp",
+            "wasp-2.webp",
+            "wasp-3.webp",
+            "wasp-4.webp",
+            "wasp-5.webp"
+        ]
+		},
+	{
+		"Name": "Gypaète barbu",
+		"Name_en": "Bearded Vulture",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bearded-vulture-1.webp",
+            "bearded-vulture-2.webp",
+            "bearded-vulture-3.webp",
+            "bearded-vulture-4.webp",
+            "bearded-vulture-5.webp"
+        ]
+		},
+	{
+		"Name": "Gyrfalcon",
+		"Name_en": "Gyrfalcon",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "gyrfalcon-1.webp",
+            "gyrfalcon-2.webp",
+            "gyrfalcon-3.webp",
+            "gyrfalcon-4.webp",
+            "gyrfalcon-5.webp"
+        ]
+		},
+	{
+		"Name": "Hibou",
+		"Name_en": "Owl",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hulule",
+		"SoundUrl": "hibou.mp3",
+		"ImgUrls": [
+            "owl-1.webp",
+            "owl-2.webp",
+            "owl-3.webp",
+            "owl-4.webp",
+            "owl-5.webp"
+        ]
+		},
+	{
+		"Name": "Hippocampe",
+		"Name_en": "Seahorse",
+		"Categorie": "Poisson",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "seahorse-1.webp",
+            "seahorse-2.webp",
+            "seahorse-3.webp",
+            "seahorse-4.webp",
+            "seahorse-5.webp"
+        ]
+		},
+	{
+		"Name": "Hippopotame",
+		"Name_en": "Hippopotamus",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau épaisse",
+		"Move": ["Nage"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grogne",
+		"SoundUrl": "hippopotamus.mp3",
+		"ImgUrls": [
+            "hippopotamus-1.webp",
+            "hippopotamus-2.webp",
+            "hippopotamus-3.webp",
+            "hippopotamus-4.webp",
+            "hippopotamus-5.webp"
+        ]
+		},
+	{
+		"Name": "Hirondelle",
+		"Name_en": "Swallow",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Gazouille",
+		"SoundUrl": "hirondelles.mp3",
+		"ImgUrls": [
+            "swallow-1.webp",
+            "swallow-2.webp",
+            "swallow-3.webp",
+            "swallow-4.webp",
+            "swallow-5.webp"
+        ]
+		},
+	{
+		"Name": "Hyène",
+		"Name_en": "Hyena",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils bruns ou gris, dos voûté",
+		"Move": ["Court"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Ricane",
+		"SoundUrl": "hyene.mp3",
+		"ImgUrls": [
+            "hyena-1.webp",
+            "hyena-2.webp",
+            "hyena-3.webp",
+            "hyena-4.webp",
+            "hyena-5.webp"
+        ]
+			},
+	{
+		"Name": "Hérisson",
+		"Name_en": "Hedgehog",
+		"Categorie": "Mammifère",
+		"Apparence": "Épines",
+		"Move": ["Marche"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grognement",
+		"SoundUrl": "herisson.mp3",
+		"ImgUrls": [
+            "hedgehog-1.webp",
+            "hedgehog-2.webp",
+            "hedgehog-3.webp",
+            "hedgehog-4.webp",
+            "hedgehog-5.webp"
+        ]
+			},
+	{
+		"Name": "Héron",
+		"Name_en": "Heron",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole", "Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "hue",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "heron-1.webp",
+            "heron-2.webp",
+            "heron-3.webp",
+            "heron-4.webp",
+            "heron-5.webp"
+        ]
+			},
+	{
+		"Name": "Ibex",
+		"Name_en": "Ibex",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Grimpe"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "ibex-1.webp",
+            "ibex-2.webp",
+            "ibex-3.webp",
+            "ibex-4.webp",
+            "ibex-5.webp"
+        ]
+		},
+	{
+		"Name": "Ibis",
+		"Name_en": "Ibis",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole", "Nage"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "ibis-1.webp",
+            "ibis-2.webp",
+            "ibis-3.webp",
+            "ibis-4.webp",
+            "ibis-5.webp"
+        ]
+		},
+	{
+		"Name": "Iguane",
+		"Name_en": "Iguana",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Rampe"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "iguane.mp3",
+		"ImgUrls": [
+            "iguana-1.webp",
+            "iguana-2.webp",
+            "iguana-3.webp",
+            "iguana-4.webp",
+            "iguana-5.webp"
+        ]
+		},
+	{
+		"Name": "Kiwi",
+		"Name_en": "Kiwi",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "kiwi-1.webp",
+            "kiwi-2.webp",
+            "kiwi-3.webp",
+            "kiwi-4.webp",
+            "kiwi-5.webp"
+        ]
+		},
+	{
+		"Name": "Koala",
+		"Name_en": "Koala",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "koala-1.webp",
+            "koala-2.webp",
+            "koala-3.webp",
+            "koala-4.webp",
+            "koala-5.webp"
+        ]
+		},
+	{
+		"Name": "Lama",
+		"Name_en": "Llama",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils longs, tête allongée",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hennit",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "llama-1.webp",
+            "llama-2.webp",
+            "llama-3.webp",
+            "llama-4.webp",
+            "llama-5.webp"
+        ]
+		},
+	{
+		"Name": "Lapin",
+		"Name_en": "Rabbit",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils doux, longues oreilles",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Clapit",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "rabbit-1.webp",
+            "rabbit-2.webp",
+            "rabbit-3.webp",
+            "rabbit-4.webp",
+            "rabbit-5.webp"
+        ]
+		},
+	{
+		"Name": "Lion",
+		"Name_en": "Lion",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Rugit",
+		"SoundUrl": "lion.mp3",
+		"ImgUrls": [
+            "lion-1.webp",
+            "lion-2.webp",
+            "lion-3.webp",
+            "lion-4.webp",
+            "lion-5.webp"
+        ]
+		},
+	{
+		"Name": "Loup",
+		"Name_en": "Wolf",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hurle",
+		"SoundUrl": "loup.mp3",
+		"ImgUrls": [
+            "wolf-1.webp",
+            "wolf-2.webp",
+            "wolf-3.webp",
+            "wolf-4.webp",
+            "wolf-5.webp"
+        ]
+		},
+	{
+		"Name": "Loutre",
+		"Name_en": "Otter",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Nage"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grondement",
+		"SoundUrl": "loutre.mp3",
+		"ImgUrls": [
+            "otter-1.webp",
+            "otter-2.webp",
+            "otter-3.webp",
+            "otter-4.webp",
+            "otter-5.webp"
+        ]
+		},
+	{
+		"Name": "Loutre de mer",
+		"Name_en": "Sea Otter",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Nage"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grondement",
+		"SoundUrl": "sea-otter.mp3",
+		"ImgUrls": [
+            "sea-otter-1.webp",
+            "sea-otter-2.webp",
+            "sea-otter-3.webp",
+            "sea-otter-4.webp",
+            "sea-otter-5.webp",
+			"sea-otter-6.webp"
+        ]
+		},
+	{
+		"Name": "Lynx",
+		"Name_en": "Lynx",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "lynx-1.webp",
+            "lynx-2.webp",
+            "lynx-3.webp",
+            "lynx-4.webp",
+            "lynx-5.webp"
+        ]
+		},
+	{
+		"Name": "Lémurien",
+		"Name_en": "Lemur",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "lemur-1.webp",
+            "lemur-2.webp",
+            "lemur-3.webp",
+            "lemur-4.webp",
+            "lemur-5.webp"
+        ]
+		},
+	{
+		"Name": "Lézard",
+		"Name_en": "Lizard",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Rampe"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "lizard-1.webp",
+            "lizard-2.webp",
+            "lizard-3.webp",
+            "lizard-4.webp",
+            "lizard-5.webp"
+        ]
+		},
+	{
+		"Name": "Mante religieuse",
+		"Name_en": "Praying Mantis",
+		"Categorie": "Insecte",
+		"Apparence": "Antennes",
+		"Move": ["Rampe"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "praying-mantis-1.webp",
+            "praying-mantis-2.webp",
+            "praying-mantis-3.webp",
+            "praying-mantis-4.webp",
+            "praying-mantis-5.webp"
+        ]
+		},
+	{
+		"Name": "Marmotte",
+		"Name_en": "Marmot",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils épais, petites oreilles",
+		"Move": ["Court"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Siffle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "marmot-1.webp",
+            "marmot-2.webp",
+            "marmot-3.webp",
+            "marmot-4.webp",
+            "marmot-5.webp"
+        ]
+		},
+	{
+		"Name": "Mouche",
+		"Name_en": "Fly",
+		"Categorie": "Insecte",
+		"Apparence": "Petites ailes transparentes",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Bourdonne",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "fly-1.webp",
+            "fly-2.webp",
+            "fly-3.webp",
+            "fly-4.webp",
+            "fly-5.webp"
+        ]
+		},
+	{
+		"Name": "Mouette",
+		"Name_en": "Seagull",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "mouette.mp3",
+		"ImgUrls": [
+            "seagull-1.webp",
+            "seagull-2.webp",
+            "seagull-3.webp",
+            "seagull-4.webp",
+            "seagull-5.webp"
+        ]
+		},
+	{
+		"Name": "Mouton",
+		"Name_en": "Sheep",
+		"Categorie": "Mammifère",
+		"Apparence": "Laine",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Bêle",
+		"SoundUrl": "mouton.mp3",
+		"ImgUrls": [
+            "sheep-1.webp",
+            "sheep-2.webp",
+            "sheep-3.webp",
+            "sheep-4.webp",
+            "sheep-5.webp"
+        ]
+		},
+	{
+		"Name": "Mésange",
+		"Name_en": "Titmouse",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "titmouse-1.webp",
+            "titmouse-2.webp",
+            "titmouse-3.webp",
+            "titmouse-4.webp",
+            "titmouse-5.webp"
+        ]
+		},
+	{
+		"Name": "Narval",
+		"Name_en": "Narwhal",
+		"Categorie": "Mammifère",
+		"Apparence": "Dent en spirale",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "narwhal-1.webp",
+            "narwhal-2.webp",
+            "narwhal-3.webp",
+            "narwhal-4.webp",
+            "narwhal-5.webp"
+        ]
+		},
+	{
+		"Name": "Ocelot",
+		"Name_en": "Ocelot",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "ocelot-1.webp",
+            "ocelot-2.webp",
+            "ocelot-3.webp",
+            "ocelot-4.webp",
+            "ocelot-5.webp"
+        ]
+		},
+	{
+		"Name": "Oie",
+		"Name_en": "Goose",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole", "Nage"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cancane",
+		"SoundUrl": "oie.mp3",
+		"ImgUrls": [
+            "goose-1.webp",
+            "goose-2.webp",
+            "goose-3.webp",
+            "goose-4.webp",
+            "goose-5.webp"
+        ]
+		},
+	{
+		"Name": "Oiseau rouge",
+		"Name_en": "Redbird",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "redbird-1.webp",
+            "redbird-2.webp",
+            "redbird-3.webp",
+            "redbird-4.webp",
+            "redbird-5.webp"
+        ]
+		},
+	{
+		"Name": "Orque",
+		"Name_en": "Orca",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau noire et blanche, grande nageoire dorsale",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "orca-1.webp",
+            "orca-2.webp",
+            "orca-3.webp",
+            "orca-4.webp",
+            "orca-5.webp"
+        ]
+		},
+	{
+		"Name": "Otarie",
+		"Name_en": "Seal",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils, nageoires",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grogne",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "seal-1.webp",
+            "seal-2.webp",
+            "seal-3.webp",
+            "seal-4.webp",
+            "seal-5.webp"
+        ]
+		},
+	{
+		"Name": "Ours",
+		"Name_en": "Bear",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche", "Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Gronde",
+		"SoundUrl": "ours.mp3",
+		"ImgUrls": [
+            "bear-1.webp",
+            "bear-2.webp",
+            "bear-3.webp",
+            "bear-4.webp",
+            "bear-5.webp"
+        ]
+		},
+	{
+		"Name": "Ours polaire",
+		"Name_en": "Polar Bear",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche", "Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Gronde",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "polar-bear-1.webp",
+            "polar-bear-2.webp",
+            "polar-bear-3.webp",
+            "polar-bear-4.webp",
+            "polar-bear-5.webp"
+        ]
+		},
+	{
+		"Name": "Panda",
+		"Name_en": "Panda",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grognement",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "panda-1.webp",
+            "panda-2.webp",
+            "panda-3.webp",
+            "panda-4.webp",
+            "panda-5.webp"
+        ]
+		},
+	{
+		"Name": "Panda roux",
+		"Name_en": "Red Panda",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "red-panda-1.webp",
+            "red-panda-2.webp",
+            "red-panda-3.webp",
+            "red-panda-4.webp",
+            "red-panda-5.webp",
+			"red-panda-6.webp",
+            "red-panda-7.webp",
+            "red-panda-8.webp"
+        ]
+		},
+	{
+		"Name": "Pangolin",
+		"Name_en": "Pangolin",
+		"Categorie": "Mammifère",
+		"Apparence": "Écailles",
+		"Move": ["Rampe"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "pangolin-1.webp",
+            "pangolin-2.webp",
+            "pangolin-3.webp",
+            "pangolin-4.webp",
+            "pangolin-5.webp"
+        ]
+		},
+	{
+		"Name": "Panthère",
+		"Name_en": "Cheetah",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "feule",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "cheetah-1.webp",
+            "cheetah-2.webp",
+            "cheetah-3.webp",
+            "cheetah-4.webp",
+            "cheetah-5.webp"
+        ]
+		},
+	{
+		"Name": "Paon",
+		"Name_en": "Peacock",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes colorées",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "braille",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "peacock-1.webp",
+            "peacock-2.webp",
+            "peacock-3.webp",
+            "peacock-4.webp",
+            "peacock-5.webp"
+        ]
+		},
+	{
+		"Name": "Papillon",
+		"Name_en": "Butterfly",
+		"Categorie": "Insecte",
+		"Apparence": "Ailes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "butterfly-1.webp",
+            "butterfly-2.webp",
+            "butterfly-3.webp",
+            "butterfly-4.webp",
+            "butterfly-5.webp"
+        ]
+		},
+	{
+		"Name": "Perroquet",
+		"Name_en": "Parrot",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes colorées, bec courbé",
+		"Move": ["Vole"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cancane",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "parrot-1.webp",
+            "parrot-2.webp",
+            "parrot-3.webp",
+            "parrot-4.webp",
+            "parrot-5.webp"
+        ]
+		},
+	{
+		"Name": "Perruche",
+		"Name_en": "Parakeet",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Jacasse",
+		"SoundUrl": "perruche.mp3",
+		"ImgUrls": [
+            "parakeet-1.webp",
+            "parakeet-2.webp",
+            "parakeet-3.webp",
+            "parakeet-4.webp",
+            "parakeet-5.webp"
+        ]
+		},
+	{
+		"Name": "Phacochère",
+		"Name_en": "Warthog",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Grognement",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "warthog-1.webp",
+            "warthog-2.webp",
+            "warthog-3.webp",
+            "warthog-4.webp",
+            "warthog-5.webp",
+			"warthog-6.webp"
+        ]
+		},
+	{
+		"Name": "Phoque",
+		"Name_en": "Seal",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau lisse, nageoires",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cêle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "seal-1.webp",
+            "seal-2.webp",
+            "seal-3.webp",
+            "seal-4.webp",
+            "seal-5.webp"
+        ]
+		},
+	{
+		"Name": "Pieuvre",
+		"Name_en": "Octopus",
+		"Categorie": "Mollusque",
+		"Apparence": "Tentacules",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "octopus-1.webp",
+            "octopus-2.webp",
+            "octopus-3.webp",
+            "octopus-4.webp",
+            "octopus-5.webp",
+			"octopus-6.webp",
+            "octopus-7.webp"
+        ]
+		},
+	{
+		"Name": "Pigeon",
+		"Name_en": "Pigeon",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Roucoule",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "pigeon-1.webp",
+            "pigeon-2.webp",
+            "pigeon-3.webp",
+            "pigeon-4.webp",
+            "pigeon-5.webp"
+        ]
+		},
+	{
+		"Name": "Pinguin",
+		"Name_en": "Penguin",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "pinguin.mp3",
+		"ImgUrls": [
+            "penguin-1.webp",
+            "penguin-2.webp",
+            "penguin-3.webp",
+            "penguin-4.webp",
+            "penguin-5.webp",
+			"penguin-6.webp",
+            "penguin-7.webp",
+            "penguin-8.webp",
+            "penguin-9.webp",
+            "penguin-10.webp",
+			"penguin-11.webp",
+            "penguin-12.webp",
+            "penguin-13.webp",
+            "penguin-14.webp"
+        ]
+		},
+	{
+		"Name": "Piranha",
+		"Name_en": "Piranha",
+		"Categorie": "Poisson",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "piranha-1.webp",
+            "piranha-2.webp",
+            "piranha-3.webp",
+            "piranha-4.webp"
+        ]
+		},
+	{
+		"Name": "Poisson clown",
+		"Name_en": "Clownfish",
+		"Categorie": "Poisson",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "clownfish-1.webp",
+            "clownfish-2.webp",
+            "clownfish-3.webp",
+            "clownfish-4.webp",
+            "clownfish-5.webp"
+        ]
+		},
+	{
+		"Name": "Poule",
+		"Name_en": "Hen",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Caquette",
+		"SoundUrl": "poule.mp3",
+		"ImgUrls": [
+            "hen-1.webp",
+            "hen-2.webp",
+            "hen-3.webp",
+            "hen-4.webp",
+            "hen-5.webp"
+        ]
+		},
+	{
+		"Name": "Pygargue",
+		"Name_en": "Bald Eagle",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bald-eagle-1.webp",
+            "bald-eagle-2.webp",
+            "bald-eagle-3.webp",
+            "bald-eagle-4.webp",
+            "bald-eagle-5.webp"
+        ]
+		},
+	{
+		"Name": "Pygmée",
+		"Name_en": "Pygmy Marmoset",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "pygmy-marmoset-1.webp",
+            "pygmy-marmoset-2.webp",
+            "pygmy-marmoset-3.webp",
+            "pygmy-marmoset-4.webp",
+            "pygmy-marmoset-5.webp"
+        ]
+		},
+	{
+		"Name": "Pélican",
+		"Name_en": "Pelican",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole", "Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "pelican-1.webp",
+            "pelican-2.webp",
+            "pelican-3.webp",
+            "pelican-4.webp",
+            "pelican-5.webp"
+        ]
+		},
+	{
+		"Name": "Rat",
+		"Name_en": "Rat",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils, longues moustaches",
+		"Move": ["Court"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Couine",
+		"SoundUrl": "rat.mp3",
+		"ImgUrls": [
+            "rat-1.webp",
+            "rat-2.webp",
+            "rat-3.webp",
+            "rat-4.webp",
+            "rat-5.webp"
+        ]
+		},
+	{
+		"Name": "Raton laveur",
+		"Name_en": "Raccoon",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Gronde",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "raccoon-1.webp",
+            "raccoon-2.webp",
+            "raccoon-3.webp",
+            "raccoon-4.webp",
+            "raccoon-5.webp"
+        ]
+		},
+	{
+		"Name": "Renard",
+		"Name_en": "Fox",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Glapit",
+		"SoundUrl": "renard.mp3",
+		"ImgUrls": [
+            "fox-1.webp",
+            "fox-2.webp",
+            "fox-3.webp",
+            "fox-4.webp",
+            "fox-5.webp"
+        ]
+		},
+	{
+		"Name": "Requin",
+		"Name_en": "Shark",
+		"Categorie": "Poisson",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "shark-1.webp",
+            "shark-2.webp",
+            "shark-3.webp",
+            "shark-4.webp",
+            "shark-5.webp"
+        ]
+		},
+	{
+		"Name": "Rhinocéros",
+		"Name_en": "Rhinoceros",
+		"Categorie": "Mammifère",
+		"Apparence": "Peau épaisse",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Barète",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "rhinoceros-1.webp",
+            "rhinoceros-2.webp",
+            "rhinoceros-3.webp",
+            "rhinoceros-4.webp",
+            "rhinoceros-5.webp"
+        ]
+		},
+	{
+		"Name": "Rouge-gorge",
+		"Name_en": "Robin",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "rouge-gorge.mp3",
+		"ImgUrls": [
+            "robin-1.webp",
+            "robin-2.webp",
+            "robin-3.webp",
+            "robin-4.webp",
+            "robin-5.webp"
+        ]
+		},
+	{
+		"Name": "Roussette",
+		"Name_en": "Flying Fox",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Vole"],
+		"Diet": "Frugivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "flying-fox-1.webp",
+            "flying-fox-2.webp",
+            "flying-fox-3.webp",
+            "flying-fox-4.webp",
+            "flying-fox-5.webp"
+        ]
+		},
+	{
+		"Name": "Rêveur",
+		"Name_en": "Maned Wolf",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "maned-wolf-1.webp",
+            "maned-wolf-2.webp",
+            "maned-wolf-3.webp",
+            "maned-wolf-4.webp",
+            "maned-wolf-5.webp"
+        ]
+		},
+	{
+		"Name": "Salamandre",
+		"Name_en": "Salamander",
+		"Categorie": "Amphibien",
+		"Apparence": "Peau lisse",
+		"Move": ["Rampe"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "salamander-1.webp",
+            "salamander-2.webp",
+            "salamander-3.webp",
+            "salamander-4.webp",
+            "salamander-5.webp"
+        ]
+		},
+	{
+		"Name": "Sauterelle",
+		"Name_en": "Grasshopper",
+		"Categorie": "Insecte",
+		"Apparence": "Corps long, ailes",
+		"Move": ["Saute"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "Stridule",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "grasshopper-1.webp",
+            "grasshopper-2.webp",
+            "grasshopper-3.webp",
+            "grasshopper-4.webp",
+            "grasshopper-5.webp"
+        ]
+		},
+	{
+		"Name": "Scorpion",
+		"Name_en": "Scorpion",
+		"Categorie": "Arachnide",
+		"Apparence": "Exosquelette",
+		"Move": ["Rampe"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "scorpion-1.webp",
+            "scorpion-2.webp",
+            "scorpion-3.webp",
+            "scorpion-4.webp",
+            "scorpion-5.webp"
+        ]
+		},
+	{
+		"Name": "Serin",
+		"Name_en": "Serin",
+		"Categorie": "Oiseau",
+		"Apparence": "Plumes",
+		"Move": ["Vole"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chante",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "serin-1.webp",
+            "serin-2.webp",
+            "serin-3.webp",
+            "serin-4.webp",
+            "serin-5.webp"
+        ]
+		},
+	{
+		"Name": "Serpent",
+		"Name_en": "Snake",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Rampe"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Souffle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "snake-1.webp",
+            "snake-2.webp",
+            "snake-3.webp",
+            "snake-4.webp",
+            "snake-5.webp"
+        ]
+		},
+	{
+		"Name": "Serpent de mer",
+		"Name_en": "Sea Snake",
+		"Categorie": "Reptile",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "sea-snake-1.webp",
+            "sea-snake-2.webp",
+            "sea-snake-3.webp",
+            "sea-snake-4.webp",
+            "sea-snake-5.webp"
+        ]
+		},
+	{
+		"Name": "Souris",
+		"Name_en": "Mouse",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Rampe"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Chicote",
+		"SoundUrl": "souris.mp3",
+		"ImgUrls": [
+            "mouse-1.webp",
+            "mouse-2.webp",
+            "mouse-3.webp",
+            "mouse-4.webp",
+            "mouse-5.webp"
+        ]
+		},
+	{
+		"Name": "Suricate",
+		"Name_en": "Meerkat",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "meerkat-1.webp",
+            "meerkat-2.webp",
+            "meerkat-3.webp",
+            "meerkat-4.webp",
+            "meerkat-5.webp"
+        ]
+		},
+	{
+		"Name": "Tamanoir",
+		"Name_en": "Anteater",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "anteater-1.webp",
+            "anteater-2.webp",
+            "anteater-3.webp",
+            "anteater-4.webp",
+            "anteater-5.webp"
+        ]
+		},
+	{
+		"Name": "Tamarin",
+		"Name_en": "Tamarin",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Saute"],
+		"Diet": "Omnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Cri",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "tamarin-1.webp",
+            "tamarin-2.webp",
+            "tamarin-3.webp",
+            "tamarin-4.webp",
+            "tamarin-5.webp"
+        ]
+		},
+	{
+		"Name": "Tarentule",
+		"Name_en": "Tarantula",
+		"Categorie": "Araignée",
+		"Apparence": "Poils",
+		"Move": ["Rampe"],
+		"Diet": "Insectivore",
+		"Vertebrate": "Invertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "tarantula-1.webp",
+            "tarantula-2.webp",
+            "tarantula-3.webp",
+            "tarantula-4.webp",
+            "tarantula-5.webp"
+        ]
+		},
+	{
+		"Name": "Taureau",
+		"Name_en": "Bull",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils, grands cornes",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Meugle",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "bull-1.webp",
+            "bull-2.webp",
+            "bull-3.webp",
+            "bull-4.webp",
+            "bull-5.webp"
+        ]
+		},
+	{
+		"Name": "Tigre",
+		"Name_en": "Tiger",
+		"Categorie": "Mammifère",
+		"Apparence": "Rayures orange/noires",
+		"Move": ["Marche"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Feule",
+		"SoundUrl": "tigre.mp3",
+		"ImgUrls": [
+            "tiger-1.webp",
+            "tiger-2.webp",
+            "tiger-3.webp",
+            "tiger-4.webp",
+            "tiger-5.webp"
+        ]
+		},
+	{
+		"Name": "Tortue",
+		"Name_en": "Turtle",
+		"Categorie": "Reptile",
+		"Apparence": "Carapace",
+		"Move": ["Rampe"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "turtle-1.webp",
+            "turtle-2.webp",
+            "turtle-3.webp",
+            "turtle-4.webp",
+            "turtle-5.webp",
+			"turtle-6.webp",
+            "turtle-7.webp",
+            "turtle-8.webp",
+            "turtle-9.webp"
+        ]
+		},
+	{
+		"Name": "Truite",
+		"Name_en": "Trout",
+		"Categorie": "Poisson",
+		"Apparence": "Écailles",
+		"Move": ["Nage"],
+		"Diet": "Carnivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "",
+		"SoundUrl": "",
+		"ImgUrls": [
+            "trout-1.webp",
+            "trout-2.webp",
+            "trout-3.webp",
+            "trout-4.webp",
+            "trout-5.webp"
+        ]
+		},
+	{
+		"Name": "Vache",
+		"Name_en": "Cow",
+		"Categorie": "Mammifère",
+		"Apparence": "Poils",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Meugle",
+		"SoundUrl": "vache.mp3",
+		"ImgUrls": [
+            "cow-1.webp",
+            "cow-2.webp",
+            "cow-3.webp",
+            "cow-4.webp",
+            "cow-5.webp"
+        ]
+		},
+	{
+		"Name": "Zèbre",
+		"Name_en": "Zebra",
+		"Categorie": "Mammifère",
+		"Apparence": "Rayures noires et blanches",
+		"Move": ["Marche"],
+		"Diet": "Herbivore",
+		"Vertebrate": "Vertébré",
+		"SoundName": "Hennit",
+		"SoundUrl": "zebra.mp3",
+		"ImgUrls": [
+            "zebra-1.webp",
+            "zebra-2.webp",
+            "zebra-3.webp",
+            "zebra-4.webp",
+            "zebra-5.webp"
+        ]
+		}
+	]

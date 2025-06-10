@@ -1,0 +1,32 @@
+{
+	"name": "AnimuxV2",
+	"short_name": "AnimuxV2",
+	"theme_color": "#1a2036",
+	"background_color": "#1a2036",
+	"display": "fullscreen",
+	"id": "Animux",
+	"description": "A small app to discover animals!",
+	"start_url": "/",
+	"dir": "ltr",
+	"scope": "/",
+	"lang": "fr",
+	"orientation": "landscape",
+	"categories": ["education", "games", "kids"],
+	"display_override": ["window-controls-overlay"],
+	"icons": [{
+		"src": "/favicon/web-app-manifest-192x192.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "maskable"
+	}, {
+		"src": "/favicon/web-app-manifest-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "maskable"
+	}, {
+		"src": "/favicon/web-app-manifest-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	}]
+}

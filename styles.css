@@ -1,0 +1,312 @@
+:root {
+	--main-color: #242B42;
+	--second-color: #1A2036;
+	--third-color: #B1B9D8;
+	--s-48: 3rem;
+	--s-32: 2rem;
+	--s-24: 1.5rem;
+	--s-16: 1rem;
+	--s-14: 0.875rem;
+	--s-12: 0.75rem;
+	--s-10: 0.625rem;
+	--s-8: 0.5rem;
+	--s-6: 0.375rem;
+	--s-4: 0.25rem;
+	--s-2: 0.125rem;
+	--s-1: 0.063rem;
+	--cubicBezier: cubic-bezier(.4, 0, .2, 1);
+}
+
+html,
+body {
+	height: 100vh;
+	overflow: hidden;
+}
+
+body {
+	background: var(--second-color);
+	color: var(--third-color);
+	font-family: Avenir, Corbel, sans-serif;
+	height: calc(100vh - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+	/*height: calc(100vh - 144px);*/
+}
+
+/* Header */
+header {
+	position: absolute;
+	z-index: 1;
+}
+
+#logoContainer {
+	text-align: center;
+	margin: var(--s-16);
+}
+
+#logo {
+	height: 50px;
+	width: 50px;
+	margin: auto;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	height: 100%;
+}
+
+/* Carousel */
+.carousel {
+	flex: 1 1 auto;
+	display: -webkit-box;
+	transition: transform .5s var(--cubicBezier);
+	cursor: grab;
+	min-height: 0;
+}
+
+.carousel:active {
+	cursor: grabbing;
+}
+
+.carousel figure {
+	height: 100%;
+	margin: auto;
+	width: 100%;
+}
+
+.carousel img {
+	width: 100vw;
+	object-fit: cover;
+	height: 100%;
+}
+
+/* Slider indicator */
+.dotsContainer {
+	flex: 0 1 auto;
+	display: flex;
+	background: var(--main-color);
+}
+
+.dotsContainer .dots {
+	width: 100%;
+	height: 3px;
+	display: inline-block;
+}
+
+.dotsContainer .dots.active {
+	background: var(--third-color);
+}
+
+/* Description */
+.description {
+	flex: 0 1 auto;
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem;
+	cursor: pointer;
+}
+
+.description > div {
+	display: flex;
+	align-items: center;
+}
+
+.description div div,
+.description .sound {
+	position: relative;
+	height: 25px;
+	width: 25px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin: 0 0 0 1rem;
+}
+
+.description div div:hover::before,
+.description .sound:hover::before {
+	transform: translate(0);
+	opacity: 1;
+}
+
+.description div div::before,
+.description .sound:before {
+	content: attr(data-speak);
+	text-transform: capitalize;
+	position: absolute;
+	display: block;
+	background: var(--second-color);
+	padding: 10px;
+	box-shadow: 0px 2px 5px #0000008c;
+	border-radius: 3px;
+	text-align: center;
+	z-index: 1;
+	left: 0;
+	opacity: 0;
+	pointer-events: none;
+	bottom: 30px;
+	transform: translateY(-20px);
+	transition: all .3s var(--cubicBezier);
+}
+
+.description span.name {
+	font-weight: bold;
+	font-size: var(--s-16);
+	letter-spacing: var(--s-1);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.carnivore {
+	background: url('./media/icon/carnivore.svg');
+}
+
+.herbivore {
+	background: url('./media/icon/herbivore.svg');
+}
+
+.omnivore {
+	background: url('./media/icon/omnivore.svg');
+}
+
+.insectivore {
+	background: url('./media/icon/insectivore.svg');
+}
+
+.piscivore {
+	background: url('./media/icon/piscivore.svg');
+}
+
+.frugivore {
+	background: url('./media/icon/frugivore.svg');
+}
+
+.granivore {
+	background: url('./media/icon/granivore.svg');
+}
+
+.filtreur {
+	background: url('./media/icon/filtreur.svg');
+}
+
+.detritivore {
+	background: url('./media/icon/detritivore.svg');
+}
+
+.decomposeur {
+	background: url('./media/icon/decomposeur.svg');
+}
+
+.nectarivore {
+	background: url('./media/icon/nectarivore.svg');
+}
+
+.sanguivore {
+	background: url('./media/icon/sanguivore.svg');
+}
+
+.vertebre {
+	background: url('./media/icon/vertebrate.svg');
+}
+
+.invertebre {
+	background: url('./media/icon/invertebrate.svg');
+}
+
+.vole {
+	background: url('./media/icon/vole.svg');
+}
+
+.marche {
+	background: url('./media/icon/marche.svg');
+}
+
+.nage {
+	background: url('./media/icon/nage.svg');
+}
+
+.rampe {
+	background: url('./media/icon/rampe.svg');
+}
+
+.grimpe {
+	background: url('./media/icon/grimpe.svg');
+}
+
+.saute {
+	background: url('./media/icon/saute.svg');
+}
+
+.sound {
+	background: url('./media/icon/sound.svg');
+}
+
+/* Switch */
+#random {
+	position: absolute;
+	right: 20px;
+	bottom: 80px;
+	z-index: 999999;
+	cursor: pointer;
+	border-radius: var(--s-48);
+	line-height: var(--s-48);
+	transition: all .3s var(--cubicBezier);
+	/*background: url('./media/icon/random.svg') calc(100% - var(--s-16)) center no-repeat var(--second-color);*/
+	background: url('./media/icon/random.svg') center no-repeat var(--second-color);
+	width: 70px;
+	height: 70px;
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+}
+
+#random:hover {
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0);
+}
+
+/* WRONG ORIENTATION - SHOW MESSAGE HIDE CONTENT */
+#screenRotate::before {
+	content: '';
+	background: url('./media/icon/screenRotate.svg') center center no-repeat;
+	width: 100px;
+	height: 100px;
+}
+
+#screenRotate {
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+@media only screen and (orientation:landscape) {
+	#screenRotate {
+		display: none;
+	}
+
+	header,
+	footer {
+		display: block;
+	}
+
+	main {
+		display: flex;
+	}
+}
+
+/* (B) CORRECT ORIENTATION - SHOW CONTENT HIDE MESSAGE */
+@media only screen and (orientation:portrait) {
+	#screenRotate {
+		display: flex;
+	}
+
+	header,
+	footer {
+		display: none;
+	}
+
+	main {
+		display: none;
+	}
+}
